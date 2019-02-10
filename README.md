@@ -1,6 +1,6 @@
 # bouncing-dvd-logo
 
-Come on! It was fun to made! C:
+Will it hit the corner?
 
 __How it looks__ : 
 
