@@ -1,2 +1,8 @@
 # bouncing-dvd-logo
-DVD logo bouncing made in Javascript
+
+Come on! It was fun to made! C:
+
+** How it looks **
+![preview](https://i.imgur.com/sgYsqnc.gif)
+
+
