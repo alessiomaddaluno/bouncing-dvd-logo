@@ -2,7 +2,7 @@
 
 Will it hit the corner?
 
-__How it looks__ : 
+__Preview__ : 
 
 ![preview](https://i.imgur.com/sgYsqnc.gif)
 
