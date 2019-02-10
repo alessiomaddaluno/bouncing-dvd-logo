@@ -2,7 +2,7 @@
 
 Come on! It was fun to made! C:
 
-** How it looks **
+__How it looks__
 ![preview](https://i.imgur.com/sgYsqnc.gif)
 
 
